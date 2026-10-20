@@ -1,0 +1,54 @@
+{
+  "crafts": [
+    {
+      "count": 1,
+      "nameInApp": "Christmas Gingerbread House 3D Craft",
+      "s3Name": "ChristmasGingerbreadHouse3DCraft",
+      "description": "A festive 3D paper gingerbread house craft designed for Christmas decorations and holiday projects. This design creates a realistic house shape with decorative details, perfect for table décor, gift toppers, or seasonal displays.",
+      "formatFile": "SVG, PNG, EPS, JPG, Instruction Guide",
+      "assemble": "Extract the downloaded files and cut all pieces from thick cardstock. Fold along marked lines to shape the walls, glue tabs together, then secure the roof and chimney. Allow the glue to dry completely before displaying.",
+      "thumbnailCount": "1",
+      "isNew": true
+    },
+    {
+      "count": 1,
+      "nameInApp": "Elephant Theme Nursery 3D Shadow Box",
+      "s3Name": "ElephantThemeNursery3DShadowBox",
+      "description": "A sweet elephant-themed 3D shadow box made with layered paper for depth and dimension. Ideal for nursery rooms, baby showers, or children’s décor, this design creates a soft and playful visual effect.",
+      "formatFile": "SVG, PNG, EPS, JPG, Instruction Guide",
+      "assemble": "Cut each layer from colored cardstock using a cutting machine. Arrange the layers in order and glue or use foam tape between them to add spacing. Place the finished artwork into a shadow box frame.",
+      "thumbnailCount": "1",
+      "isNew": true
+    },
+    {
+      "count": 1,
+      "nameInApp": "Personalized Deer Baby Name 3D Sign",
+      "s3Name": "PersonalizedDeerBabyName3DSign",
+      "description": "A customizable 3D baby name sign featuring a cute deer and woodland style elements. Designed for nursery walls and personalized gifts, this layered sign adds a warm and charming touch to baby rooms.",
+      "formatFile": "SVG Cut File",
+      "assemble": "Cut all layers from cardstock in your chosen colors. Glue the layers together using foam adhesive to create depth. Attach the completed design to a backing board or mount directly on the wall.",
+      "thumbnailCount": "",
+      "isNew": true
+    },
+    {
+      "count": 1,
+      "nameInApp": "Construction Backhoe 3D Paper Model",
+      "s3Name": "ConstructionBackhoe3DPaperModel",
+      "description": "A detailed 3D backhoe construction machine paper model designed for educational and creative fun. Features realistic structure and movable parts, making it suitable for kids, classrooms, and craft enthusiasts.",
+      "formatFile": "SVG, PDF Instructions",
+      "assemble": "Cut out all parts carefully and follow the step-by-step PDF guide. Fold and glue the main body sections first, then assemble the arm and bucket. Ensure parts are aligned properly for smooth movement.",
+      "thumbnailCount": "1",
+      "isNew": true
+    },
+    {
+      "count": 1,
+      "nameInApp": "Colorful Balloon Dog 3D Shadow Box",
+      "s3Name": "ColorfulBalloonDog3DShadowBox",
+      "description": "A fun balloon dog 3D shadow box design inspired by classic balloon animals. Bright layers and curved shapes create a lively paper artwork suitable for modern décor and creative spaces.",
+      "formatFile": "SVG, PNG, EPS, JPG",
+      "assemble": "Cut each layer from vibrant cardstock colors. Stack the layers in sequence using foam tape or glue to build depth. Insert the finished design into a deep frame for a shadow box effect.",
+      "thumbnailCount": "1",
+      "isNew": true
+    }
+  ]
+}

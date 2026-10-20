@@ -1,0 +1,504 @@
+{
+    "CutFiles": [
+        {
+            "count": 25,
+            "nameInApp": "Father Day",
+            "s3Name": "FatherDay",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Baby",
+            "s3Name": "Baby",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Birthday",
+            "s3Name": "Birthday",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Wedding",
+            "s3Name": "Wedding",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "st patrick's Day",
+            "s3Name": "stpatrickDay",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Easter Day",
+            "s3Name": "EasterDay",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Teacher",
+            "s3Name": "Teacher",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Christmas",
+            "s3Name": "Christmas",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Family",
+            "s3Name": "Family",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "New Year",
+            "s3Name": "NewYear",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Spring",
+            "s3Name": "Spring",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Mom",
+            "s3Name": "Mom",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Gym",
+            "s3Name": "Gym",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Nurse",
+            "s3Name": "Nurse",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Summer",
+            "s3Name": "Summer",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Valentines Day",
+            "s3Name": "ValentinesDay",
+            "isNew": true
+        }
+    ],
+    "Monograms": [
+        {
+            "count": 25,
+            "nameInApp": "Coffee",
+            "s3Name": "Coffee",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Easter Day",
+            "s3Name": "EasterDay",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Spider",
+            "s3Name": "Spider",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Pumpkin",
+            "s3Name": "Pumpkin",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Christmas",
+            "s3Name": "Christmas",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Ice Cream",
+            "s3Name": "IceCream",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Bee",
+            "s3Name": "Bee",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Halloween",
+            "s3Name": "Halloween",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Wedding",
+            "s3Name": "Wedding",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Butterfly",
+            "s3Name": "Butterfly",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Teacher",
+            "s3Name": "Teacher",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Valentines Day",
+            "s3Name": "ValentinesDay",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Flowers",
+            "s3Name": "Flowers",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "4th Of July",
+            "s3Name": "4thOfJuly",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Baby",
+            "s3Name": "Baby",
+            "isNew": true
+        }
+    ],
+    "Shapes": [
+        {
+            "count": 25,
+            "nameInApp": "Spider",
+            "s3Name": "Spider",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Sports",
+            "s3Name": "Sports",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Game",
+            "s3Name": "Game",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Architecture",
+            "s3Name": "Architecture",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Mandala",
+            "s3Name": "Mandala",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Cactus",
+            "s3Name": "Cactus",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Flowers",
+            "s3Name": "Flowers",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Skeleton",
+            "s3Name": "Skeleton",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Fruit",
+            "s3Name": "Fruit",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Cat",
+            "s3Name": "Cat",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Bear",
+            "s3Name": "Bear",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Baby",
+            "s3Name": "Baby",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Butterfly",
+            "s3Name": "Butterfly",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Animal",
+            "s3Name": "Animal",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Emoji",
+            "s3Name": "Emoji",
+            "isNew": true
+        }
+    ],
+    "WaterColour": [
+        {
+            "count": 25,
+            "nameInApp": "Night Sky",
+            "s3Name": "NightSky",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Sloth",
+            "s3Name": "Sloth",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Bicycle",
+            "s3Name": "Bicycle",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Jar Flower",
+            "s3Name": "JarFlower",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Unicorn",
+            "s3Name": "Unicorn",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Beach",
+            "s3Name": "Beach",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Fruit",
+            "s3Name": "Fruit",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Fishing",
+            "s3Name": "Fishing",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Valentines Day",
+            "s3Name": "ValentinesDay",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Animal",
+            "s3Name": "Animal",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Baby",
+            "s3Name": "Baby",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Flowers",
+            "s3Name": "Flowers",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Butterfly",
+            "s3Name": "Butterfly",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Bee",
+            "s3Name": "Bee",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Birthday",
+            "s3Name": "Birthday",
+            "isNew": true
+        }
+    ],
+    "Stickers": [
+        {
+            "count": 25,
+            "nameInApp": "New Year",
+            "s3Name": "NewYear",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Nurse",
+            "s3Name": "Nurse",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Mother Day",
+            "s3Name": "MotherDay",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Wedding",
+            "s3Name": "Wedding",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Mermaid",
+            "s3Name": "Mermaid",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Plant",
+            "s3Name": "Plant",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Coffee",
+            "s3Name": "Coffee",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Halloween",
+            "s3Name": "Halloween",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Uniqon",
+            "s3Name": "Uniqon",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Ice Cream",
+            "s3Name": "IceCream",
+            "isNew": true
+        }
+    ],
+    "Sublimations": [
+        {
+            "count": 25,
+            "nameInApp": "Breast Cancer",
+            "s3Name": "BreastCancer",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Teacher",
+            "s3Name": "Teacher",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Father Day",
+            "s3Name": "FatherDay",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Christmas",
+            "s3Name": "Cat",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Easter Day",
+            "s3Name": "EasterDay",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Motivation",
+            "s3Name": "Motivation",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Sport",
+            "s3Name": "Sport",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "St Patricks",
+            "s3Name": "StPatricks",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "4th July",
+            "s3Name": "4thJuly",
+            "isNew": true
+        },
+        {
+            "count": 25,
+            "nameInApp": "Summer",
+            "s3Name": "Summer",
+            "isNew": true
+        }
+    ],
+    "Tshirt":30,
+    "Caps":30,
+    "Mugs":30,
+    "3DSticker":30
+}
